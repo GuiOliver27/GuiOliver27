@@ -16,5 +16,5 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Gu
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank">
 <h2 align="left">Front-end</h2>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> 
