@@ -24,6 +24,6 @@ src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1612733
 
 <h3 align="left">Backt-end</h3>
 
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" alt="C" width="40" height="40"/> </a> 
+<a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" alt="C" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1612732556~hmac=312e21b027c8dbdf39738f6b21dc8502" alt="css" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/136/136530.svg?token=exp=1612732837~hmac=1e4e7635b33850fb88e045cc9ca09051" alt="javascript" width="40" height="40"/> </a> 
