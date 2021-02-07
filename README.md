@@ -26,6 +26,6 @@ src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1612733
 
 <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" alt="C" width="40" height="40"/> </a> 
 <a href="https://docs.oracle.com/en/java/javase/15/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1612735015~hmac=9c706f913845a9342b6166c45b551521" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/136/136530.svg?token=exp=1612732837~hmac=1e4e7635b33850fb88e045cc9ca09051" alt="javascript" width="40" height="40"/> </a>
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="c#" width="40" height="40"/> </a>
 
 </p>
