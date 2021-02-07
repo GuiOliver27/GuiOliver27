@@ -17,7 +17,6 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Gu
 
 <h2 align="left">Linguagens e Ferramentas:</h2>
 <h3 align="left">Front-end</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> 
 
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" 
 alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> 
