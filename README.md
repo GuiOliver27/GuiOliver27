@@ -15,5 +15,5 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="g
 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="GuiOliver" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<h2 align="left">Front-end</h2>
+<h2 align="left">Linguagens e Ferramentas:</h2>
+<h3 align="left">Front-end</h3>
