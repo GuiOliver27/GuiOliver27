@@ -16,6 +16,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Gu
 </p>
 
 <h2 align="left">Linguagens e Ferramentas:</h2>
+<h3 align="left">Front-end</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> 
 
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
