@@ -17,9 +17,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Gu
 
 <h2 align="left">Linguagens e Ferramentas:</h2>
 <h3 align="left">Front-end</h3>
-<img src="https://www.flaticon.com/svg/vstatic/svg/226/226269.svg?token=exp=1612730665~hmac=cc46e32b7af36aea40a6a2ec2540180d" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" 
-width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> 
+width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" 
 width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> 
