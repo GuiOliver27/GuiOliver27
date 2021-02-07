@@ -20,12 +20,20 @@ src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1612733
 
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/226/226269.svg?token=exp=1612730665~hmac=cc46e32b7af36aea40a6a2ec2540180d" alt="html" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1612732556~hmac=312e21b027c8dbdf39738f6b21dc8502" alt="css" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/136/136530.svg?token=exp=1612732837~hmac=1e4e7635b33850fb88e045cc9ca09051" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40"/> </a> 
 
 <h3 align="left">Back-end</h3>
 
 <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" alt="C" width="40" height="40"/> </a> 
 <a href="https://docs.oracle.com/en/java/javase/15/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1612735015~hmac=9c706f913845a9342b6166c45b551521" alt="java" width="40" height="40"/> </a> 
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="c#" width="40" height="40"/> </a>
+<a href="https://www.ruby-lang.org/pt/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png" alt="ruby" width="40" height="40"/> </a>
+
+<h3 align="left">Outros</h3>
+
+<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="linux" width="40" height="40"/> </a> 
+<a href="https://github.com/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1612735015~hmac=9c706f913845a9342b6166c45b551521" alt="java" width="40" height="40"/> </a> 
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="c#" width="40" height="40"/> </a>
+<a href="https://www.ruby-lang.org/pt/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png" alt="ruby" width="40" height="40"/> </a>
 
 </p>
