@@ -8,7 +8,7 @@
 <h3 align="left">Me acompanhe nas redes:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/guilherme-moncao" target="blank"><img align="center"
-src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612987092~hmac=2810a99a3640913cbdc7cedab5b476c8" alt="guilherme-moncao" height="30" width="40" /></a>
+src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612999300~hmac=e6217b0cf7247649e50d1a768956a15c" alt="guilherme-moncao" height="30" width="40" /></a>
 <a href="https://www.instagram.com/guimoncao27" target="blank"><img align="center"
 src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="guimoncao27" height="30" width="40" /></a>
 <a href="https://t.me/GuiOliver" target="blank"><img align="center"
@@ -18,8 +18,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt=
 <h2 align="left">Linguagens e Ferramentas:</h2>
 <h3 align="left">Front-end</h3>
 
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/1216/1216733.svg?token=exp=1612793612~hmac=c6bff2dfc1a3ed4c89289f3076a06df7" alt="html" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1612793784~hmac=f9d7c592bf11ae183b81f1312a7edc9b" alt="css" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/1216/1216733.svg?token=exp=1612999048~hmac=64b69425fa49fa4d096029b44fcec054" alt="html" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1612999174~hmac=de28b7c04fc5a0616a75105a22a0f6df" alt="css" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40"/> </a> 
 
 <h3 align="left">Back-end</h3>
