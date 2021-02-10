@@ -25,7 +25,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt=
 <h3 align="left">Back-end</h3>
 
 <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" alt="C" width="40" height="40"/> </a> 
-<a href="https://docs.oracle.com/en/java/javase/15/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1612735015~hmac=9c706f913845a9342b6166c45b551521" alt="java" width="40" height="40"/> </a> 
+<a href="https://docs.oracle.com/en/java/javase/15/" target="_blank"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="c#" width="40" height="40"/> </a>
 <a href="https://www.ruby-lang.org/pt/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png" alt="ruby" width="40" height="40"/> </a>
 
