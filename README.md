@@ -12,7 +12,7 @@ src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=161298709
 <a href="https://www.instagram.com/guimoncao27" target="blank"><img align="center"
 src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="guimoncao27" height="30" width="40" /></a>
 <a href="https://t.me/GuiOliver" target="blank"><img align="center"
-src="https://www.pngaaa.com/detail/1461090" alt="GuiOliver" height="30" width="40" /></a>
+src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="GuiOliver" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Linguagens e Ferramentas:</h2>
