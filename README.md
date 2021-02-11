@@ -8,7 +8,7 @@
 <h3 align="left">Me acompanhe nas redes:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/guilherme-moncao" target="blank"><img align="center"
-src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png" alt="guilherme-moncao" height="30" width="40" /></a>
+src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="guilherme-moncao" height="30" width="40" /></a>
 <a href="https://www.instagram.com/guimoncao27" target="blank"><img align="center"
 src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="guimoncao27" height="30" width="40" /></a>
 <a href="https://t.me/GuiOliver" target="blank"><img align="center"
