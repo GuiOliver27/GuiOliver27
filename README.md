@@ -1,7 +1,6 @@
 <h1 align="center">Como vai, sou Guilherme 💻</h1>
 <h3 align="center">Sou um entusiasta em front e back-end, que ama tecnologia.</h3>
 
-- 💼 Atualmente trabalhando na [Agência W3](https://www.agenciaw3.digital/)
 - 🤘 🎵 Ouça minha playlist de Rock no [Spotify](https://open.spotify.com/playlist/1idqs3aJhTPP8HoP90HJte)
 - ⚡ Curiosidade! Desenvolvo uns projetos aleatórios nas horas vagas. Que em breve estarão aqui, ou já estão.
 
