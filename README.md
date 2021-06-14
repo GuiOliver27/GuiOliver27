@@ -26,11 +26,11 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt=
 <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" alt="C" width="40" height="40"/> </a> 
 <a href="https://docs.oracle.com/en/java/javase/15/" target="_blank"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.ruby-lang.org/pt/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png" alt="ruby" width="40" height="40"/> </a>
-<a href="https://www.php.net/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" alt="c#" width="40" height="40"/> </a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" alt="php" width="40" height="40"/> </a>
 
 <h3 align="left">Outros</h3>
 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="linux" width="40" height="40"/> </a> 
-<a href="https://github.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" alt="github" width="40" height="40"/> </a> 
+<a href="https://github.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40"/> </a> 
 
 </p>
