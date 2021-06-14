@@ -27,6 +27,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt=
 <a href="https://docs.oracle.com/en/java/javase/15/" target="_blank"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="c#" width="40" height="40"/> </a>
 <a href="https://www.ruby-lang.org/pt/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png" alt="ruby" width="40" height="40"/> </a>
+<a https://www.php.net/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" alt="c#" width="40" height="40"/> </a>
 
 <h3 align="left">Outros</h3>
 
