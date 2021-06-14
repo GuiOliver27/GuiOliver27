@@ -31,6 +31,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt=
 <h3 align="left">Outros</h3>
 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="linux" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="40"/>
 <a href="https://github.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40"/> </a> 
 
 </p>
