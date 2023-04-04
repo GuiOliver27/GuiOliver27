@@ -1,5 +1,5 @@
 ## Olá, eu sou Guilherme Oliveira.
-- 💻 Desenvolvedor front-end JavaScript
+- 💻 Front-end Developer
 
 <div align="center">
   <a href="https://github.com/guioliver27">
