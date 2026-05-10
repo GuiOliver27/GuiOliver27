@@ -1,25 +1,78 @@
-## Olá, eu sou Guilherme Oliveira.
-- 💻 Back-end Developer
+# 👨‍💻 Guilherme | Secure Software Engineer
 
-<div align="center">
-  <a href="https://github.com/guioliver27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guioliver27&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guioliver27&layout=compact&langs_count=7&theme=shades-of-purple"/>
-</div>
+> "Qualquer aplicação funciona perfeitamente até encontrar um usuário, um atacante ou produção. Às vezes os três ao mesmo tempo."
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="postman" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-  <img align="center" alt="mysql" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="postgres" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="linux" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="docker" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="git" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
-  
-  ##
-  
-<div> 
-  <a href="https://www.instagram.com/guimoncao27" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilherme_oliveira27@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-moncao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+---
+
+## 🛡️ Sobre mim
+
+Sou um desenvolvedor focado em desenvolvimento seguro e segurança ofensiva/defensiva aplicada a software.
+
+Tenho experiência em:
+- Desenvolvimento backend
+- Segurança de aplicações (AppSec)
+- Hardening de sistemas
+- Análise de vulnerabilidades
+- Automação de segurança
+- Segurança em APIs
+- Auditoria de dependências
+- Ambientes Linux
+- Ferramentas de cibersegurança
+
+Atualmente estudo e desenvolvo projetos voltados para:
+- Secure Software Engineering
+- Application Security
+- Linux Security
+- Blue Team
+- Threat Detection
+- Ferramentas CLI para auditoria e análise de segurança
+
+---
+
+# 🚀 Tecnologias
+
+## 💻 Linguagens
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
+![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash)
+
+---
+
+## 🔐 Cybersecurity
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux)
+![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-111111?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-111111?style=for-the-badge&logo=owasp)
+
+---
+
+# 📌 Áreas de Interesse
+
+- Application Security (AppSec)
+- Desenvolvimento Seguro
+- Hardening Linux
+- Segurança em APIs
+- Threat Modeling
+- Vulnerability Assessment
+- Malware Analysis
+- Secure Backend Development
+- Segurança de Redes
+- Ferramentas de Auditoria
+
+---
+
+# 📚 Estudos Atuais
+
+- Secure Coding
+- Linux Security
+- Kali Linux
+- Threat Hunting
+- Segurança de Aplicações Web
+- Análise de Malware
+- Arquitetura Segura
+
+```txt
+"Segurança não é um recurso.
+É requisito mínimo."
