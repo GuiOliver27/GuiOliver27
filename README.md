@@ -1,78 +1,72 @@
-# 👨‍💻 Guilherme | Secure Software Engineer
+# 👨‍💻  Desenvolvedor C# & Segurança de Aplicações
 
-> "Qualquer aplicação funciona perfeitamente até encontrar um usuário, um atacante ou produção. Às vezes os três ao mesmo tempo."
-
----
-
-## 🛡️ Sobre mim
-
-Sou um desenvolvedor focado em desenvolvimento seguro e segurança ofensiva/defensiva aplicada a software.
-
-Tenho experiência em:
-- Desenvolvimento backend
-- Segurança de aplicações (AppSec)
-- Hardening de sistemas
-- Análise de vulnerabilidades
-- Automação de segurança
-- Segurança em APIs
-- Auditoria de dependências
-- Ambientes Linux
-- Ferramentas de cibersegurança
-
-Atualmente estudo e desenvolvo projetos voltados para:
-- Secure Software Engineering
-- Application Security
-- Linux Security
-- Blue Team
-- Threat Detection
-- Ferramentas CLI para auditoria e análise de segurança
+Desenvolvedor focado em **C#**, **.NET** e **desenvolvimento seguro**, com interesse em arquitetura de software, hardening de aplicações, análise de vulnerabilidades e segurança ofensiva/defensiva aplicada ao ecossistema Microsoft.  
 
 ---
 
-# 🚀 Tecnologias
+# 🚀 Tecnologias & Stack
 
 ## 💻 Linguagens
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
-![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash)
+- C#
+- SQL
+- PowerShell
 
----
+## 🛠️ Backend
+- ASP.NET Core
+- Web API
+- Entity Framework Core
+- Minimal APIs
+- JWT Authentication
+- REST APIs
 
-## 🔐 Cybersecurity
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux)
-![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark)
-![Nmap](https://img.shields.io/badge/Nmap-111111?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-111111?style=for-the-badge&logo=owasp)
-
----
-
-# 📌 Áreas de Interesse
-
-- Application Security (AppSec)
-- Desenvolvimento Seguro
-- Hardening Linux
-- Segurança em APIs
-- Threat Modeling
-- Vulnerability Assessment
-- Malware Analysis
-- Secure Backend Development
-- Segurança de Redes
-- Ferramentas de Auditoria
-
----
-
-# 📚 Estudos Atuais
-
+## 🔐 Segurança
+- OWASP Top 10
 - Secure Coding
-- Linux Security
-- Kali Linux
-- Threat Hunting
-- Segurança de Aplicações Web
-- Análise de Malware
-- Arquitetura Segura
+- Hardening
+- Validação de entrada
+- Hashing & Criptografia
+- Análise de Logs
+- Controle de acesso
+- Segurança em APIs
+- Pentest básico em aplicações web
+- Threat Modeling
 
-```txt
-"Segurança não é um recurso.
-É requisito mínimo."
+## 🗄️ Banco de Dados
+- SQL Server
+- PostgreSQL
+- MySQL
+
+## 🐧 Infraestrutura
+- Linux
+- Ubuntu Server
+- Windows Server
+- Docker
+- Virtualização
+- Redes
+
+---
+
+# 📌 Objetivos
+
+- Desenvolver aplicações seguras utilizando .NET
+- Criar ferramentas voltadas à segurança ofensiva e defensiva
+- Aprimorar conhecimentos em Blue Team
+- Estudar engenharia reversa e análise de malware
+- Construir soluções SaaS voltadas à cibersegurança
+
+---
+
+# 🧠 Áreas de Interesse
+
+- Application Security
+- Secure Software Architecture
+- Cybersecurity
+- Blue Team
+- API Security
+- Segurança em infraestrutura
+- Automação com scripts
+- Threat Detection
+- Hardening de servidores
+
+---
+
